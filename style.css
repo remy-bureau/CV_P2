@@ -303,4 +303,11 @@ article h4, p {
         font-size: 1.2em;
         padding-top: 10px;
     }
+    .information {
+        flex-direction: column;
+        margin-top: 70px;
+    }
+    .personne {
+        text-align: center;
+    }
 }
